@@ -9,7 +9,7 @@ Please let me know if you have any questions, happy to discuss further!
 * Test scenarios are in the `cypress/e2e/*.feature`
 * Step definitions are in the `cypress/support/step_definitions/*.js`
 * Page selectors are in the `cypress/constants/*`
-* Test data are in the `cypress/fixtures/*.json`
+* Test data are in the `cypress/fixtures/*`
 
 ## How Run tests:
 * `npm i` to install the project dependencies
