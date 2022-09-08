@@ -1,9 +1,4 @@
-# QA Automation Task
-
-Automated given user story using cypress with BDD plugin.
-* Created Functional & Visual tests (visual test snapshots are available in `cypress/snapshots/*`)
-* A lot of room for improvements in the test structure and tests
-Please let me know if you have any questions, happy to discuss further!
+# Cypress Automation
 
 ## Setup:
 * Test scenarios are in the `cypress/e2e/*.feature`
