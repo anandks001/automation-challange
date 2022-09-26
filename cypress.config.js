@@ -24,7 +24,7 @@ export default defineConfig({
     e2e: {
         setupNodeEvents,
         specPattern: '**/*.feature',
-        baseUrl: 'https://qachallenge.spectrm.io/#',
+        baseUrl: 'https://localhost:3000/#',
         video: true,
         chromeWebSecurity: false,
         retries: {
